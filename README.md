@@ -1,4 +1,4 @@
-# perspective_zoom_demo
+# Parallax Effect Demo in Flutter
 
 A new Flutter application.
 
